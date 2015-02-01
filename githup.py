@@ -1,1 +1,1 @@
-print 'Akademik Bilisim'
+print 'AKADEMIK BILISIM'
